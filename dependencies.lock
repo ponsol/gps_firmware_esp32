@@ -1,0 +1,15 @@
+dependencies:
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.2.0
+  igrr/libnmea:
+    component_hash: d6e78e853e75882c17cd4f200d110b84824e728cefbb84152227f0f4f98d8a50
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 0.2.1
+manifest_hash: 2994e2285eee419d41a741aeacaf4293495b92853e7d8b6e8479464746a0c478
+target: esp32
+version: 1.0.0
